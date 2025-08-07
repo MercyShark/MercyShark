@@ -1,10 +1,8 @@
-I'm Rishabh. I love system design and web development, and I have created my own home server.
 
-Specs:  
-`CPU`: 8-Core  
-`RAM`: 16 GB  
-`OS`: Ubuntu Server (headless)  
-`Container Management`: Portainer ([portainer.io](https://www.portainer.io/))
+### Open Source Contributions
 
-<img width="2232" height="325" alt="image" src="https://github.com/user-attachments/assets/17265719-e549-4393-85fd-f77edd56d08b" />
+[![Contributed to devops-exercises](https://img.shields.io/badge/Contributed%20to-devops--exercises-blue?logo=github)](https://github.com/bregman-arie/devops-exercises)
+
+- Contributed interview exercises (Terraform).
+- Merged PR: [#10597](https://github.com/bregman-arie/devops-exercises/pull/10597)
 
